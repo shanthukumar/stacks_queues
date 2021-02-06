@@ -1,8 +1,4 @@
-/*  THIS FILE CONTAINS ALL THE FUNCTION DEFINATIONS
-    Author: ABHISHEK K T
-    Reg no: 201051007
-    Department: ME Machine Learning
-*/
+
 
 #include<stddef.h>
 #include<stdlib.h>
